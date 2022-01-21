@@ -1,5 +1,5 @@
 <h1>Shiva Technic World</h1>
-<p>Shiva Technic World is a Android App that provide Tech, Tutorials, Tips & Tricks, Codes and more.</p>
+<p>Shiva Technic World is a App that provide Tech, Tutorials, Tips & Tricks, Codes and more.</p>
 <h1>Features</h1>
 <li>Simple interface</li>
 <li>No extra permissions required</li>
