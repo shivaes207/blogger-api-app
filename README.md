@@ -8,4 +8,3 @@
 <p>You can install easily by downloading APK file from releases then open apk file and click on Install button then it start the installation.</p>
 <a></a>
 <p>Note: Currently notification feature not available</p>
-<p>Note: App have some bugs we will fix soon as possible!</p>
