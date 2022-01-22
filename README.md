@@ -2,7 +2,6 @@
 <p>Shiva Technic World is a App that provide Tech, Tutorials, Tips & Tricks, Codes and more.</p>
 <h1>Features</h1>
 <li>Simple interface</li>
-<li>No extra permissions required</li>
 <li>Its completely free</li>
 <li>A Android App that provide Tech, Tutorials, Tips & Tricks, Codes and more...</li>
 <h1>Installation</h1>
